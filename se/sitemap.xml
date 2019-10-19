@@ -3,75 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/se/events/</loc>
+    <loc>/se/events/</loc>
     <lastmod>2018-07-07T18:23:33+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/events/"
+                href="/en/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/events/"
+                href="/se/events/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/se/</loc>
+    <loc>/se/</loc>
     <lastmod>2018-07-07T17:04:41+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/"
+                href="/se/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/se/events/are-you-doing-the-right-way/</loc>
+    <loc>/se/events/are-you-doing-the-right-way/</loc>
     <lastmod>2018-07-07T17:04:41+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/events/are-you-doing-the-right-way/"
+                href="/en/events/are-you-doing-the-right-way/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/events/are-you-doing-the-right-way/"
+                href="/se/events/are-you-doing-the-right-way/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/se/categories/</loc>
+    <loc>/se/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/categories/"
+                href="/se/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/se/tags/</loc>
+    <loc>/se/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/tags/"
+                href="/se/tags/"
                 />
   </url>
   
