@@ -3,75 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/se/events/</loc>
-    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <loc>https://github.com/msteenhagen/aesthpercog/se/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/events/"
+                href="https://github.com/msteenhagen/aesthpercog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="/se/events/"
+                href="https://github.com/msteenhagen/aesthpercog/se/categories/"
                 />
   </url>
   
   <url>
-    <loc>/se/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <loc>https://github.com/msteenhagen/aesthpercog/se/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://github.com/msteenhagen/aesthpercog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="/se/"
+                href="https://github.com/msteenhagen/aesthpercog/se/"
                 />
   </url>
   
   <url>
-    <loc>/se/events/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <loc>https://github.com/msteenhagen/aesthpercog/se/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/events/are-you-doing-the-right-way/"
+                href="https://github.com/msteenhagen/aesthpercog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="/se/events/are-you-doing-the-right-way/"
-                />
-  </url>
-  
-  <url>
-    <loc>/se/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="/se/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/se/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="/se/tags/"
+                href="https://github.com/msteenhagen/aesthpercog/se/tags/"
                 />
   </url>
   

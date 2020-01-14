@@ -1,14 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aesthetic Perception &amp; Cognition</title>
-    <link>https://msteenhagen.github.io/aesthpercog/tags/</link>
+    <link>https://github.com/msteenhagen/aesthpercog/tags/</link>
     <description>Recent content in Tags on Aesthetic Perception &amp; Cognition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 12:18:46 +0600</lastBuildDate>
     
-	<atom:link href="https://msteenhagen.github.io/aesthpercog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/msteenhagen/aesthpercog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>quote</title>
+      <link>https://github.com/msteenhagen/aesthpercog/tags/quote/</link>
+      <pubDate>Tue, 24 Dec 2019 12:18:46 +0600</pubDate>
+      
+      <guid>https://github.com/msteenhagen/aesthpercog/tags/quote/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

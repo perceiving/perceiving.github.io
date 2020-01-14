@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quote of the Week on Aesthetic Perception &amp; Cognition</title>
+    <link>https://github.com/msteenhagen/aesthpercog/quote/</link>
+    <description>Recent content in Quote of the Week on Aesthetic Perception &amp; Cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2019 15:53:27 +0600</lastBuildDate>
+    
+	<atom:link href="https://github.com/msteenhagen/aesthpercog/quote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mary Mothersill</title>
+      <link>https://github.com/msteenhagen/aesthpercog/quote/mothersill/</link>
+      <pubDate>Tue, 24 Dec 2019 12:18:46 +0600</pubDate>
+      
+      <guid>https://github.com/msteenhagen/aesthpercog/quote/mothersill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Bridges</title>
+      <link>https://github.com/msteenhagen/aesthpercog/quote/bridges/</link>
+      <pubDate>Tue, 24 Dec 2019 12:18:46 +0600</pubDate>
+      
+      <guid>https://github.com/msteenhagen/aesthpercog/quote/bridges/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
