@@ -1,132 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/en/events/</loc>
-    <lastmod>2018-07-08T15:53:27+06:00</lastmod>
+    <loc>https://msteenhagen.github.io/aesthpercog/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/events/"
+                href="https://msteenhagen.github.io/aesthpercog/se/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/events/"
+                href="https://msteenhagen.github.io/aesthpercog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/en/bibliography/</loc>
+    <loc>https://msteenhagen.github.io/aesthpercog/events/workshop-2020-cfp/</loc>
+    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/quote/</loc>
+    <lastmod>2019-12-24T15:53:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/quote/mothersill/</loc>
+    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/tags/quote/</loc>
+    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/quote/bridges/</loc>
+    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/tags/</loc>
+    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="https://msteenhagen.github.io/aesthpercog/se/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://msteenhagen.github.io/aesthpercog/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/research/a-cornerstone/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/events/</loc>
+    <lastmod>2019-07-08T15:53:27+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msteenhagen.github.io/aesthpercog/research/</loc>
     <lastmod>2018-07-08T15:45:06+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/en/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="https://example.org/se/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.org/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/bibliography/blog-photos-on-phone/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/events/blog-photos-on-phone/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/events/installation/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/study/the-nourish-box-august/</loc>
+    <loc>https://msteenhagen.github.io/aesthpercog/teaching/bibliography/</loc>
     <lastmod>2018-07-08T12:20:58+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/en/study/this-show-has-divided/</loc>
-    <lastmod>2018-07-08T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/events/why-you-need-a-statement-bag-this-season/</loc>
-    <lastmod>2018-07-08T12:11:29+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/events/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="https://example.org/se/events/are-you-doing-the-right-way/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.org/en/events/are-you-doing-the-right-way/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/bibliography/something-i-need-to-tell-you/</loc>
-    <lastmod>2018-07-07T17:04:02+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/events/ten-things-about-business/</loc>
-    <lastmod>2018-07-07T16:57:54+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/study/</loc>
+    <loc>https://msteenhagen.github.io/aesthpercog/teaching/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/en/about/</loc>
+    <loc>https://msteenhagen.github.io/aesthpercog/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/en/categories/</loc>
+    <loc>https://msteenhagen.github.io/aesthpercog/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/categories/"
+                href="https://msteenhagen.github.io/aesthpercog/se/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.org/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="https://example.org/se/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.org/en/tags/"
+                href="https://msteenhagen.github.io/aesthpercog/categories/"
                 />
   </url>
   

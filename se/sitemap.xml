@@ -1,77 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/se/events/</loc>
-    <lastmod>2018-07-07T18:23:33+06:00</lastmod>
+    <loc>https://msteenhagen.github.io/aesthpercog/se/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/events/"
+                href="https://msteenhagen.github.io/aesthpercog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/events/"
+                href="https://msteenhagen.github.io/aesthpercog/se/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/se/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <loc>https://msteenhagen.github.io/aesthpercog/se/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/"
+                href="https://msteenhagen.github.io/aesthpercog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/"
+                href="https://msteenhagen.github.io/aesthpercog/se/"
                 />
   </url>
   
   <url>
-    <loc>https://example.org/se/events/are-you-doing-the-right-way/</loc>
-    <lastmod>2018-07-07T17:04:41+06:00</lastmod>
+    <loc>https://msteenhagen.github.io/aesthpercog/se/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.org/en/events/are-you-doing-the-right-way/"
+                href="https://msteenhagen.github.io/aesthpercog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
-                href="https://example.org/se/events/are-you-doing-the-right-way/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.org/se/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.org/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="https://example.org/se/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.org/se/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.org/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="https://example.org/se/tags/"
+                href="https://msteenhagen.github.io/aesthpercog/se/tags/"
                 />
   </url>
   

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching &amp; Learning on Aesthetic Perception &amp; Cognition</title>
+    <link>https://msteenhagen.github.io/aesthpercog/teaching/</link>
+    <description>Recent content in Teaching &amp; Learning on Aesthetic Perception &amp; Cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate>
+    
+	<atom:link href="https://msteenhagen.github.io/aesthpercog/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bibliography</title>
+      <link>https://msteenhagen.github.io/aesthpercog/teaching/bibliography/</link>
+      <pubDate>Sun, 08 Jul 2018 12:20:58 +0600</pubDate>
+      
+      <guid>https://msteenhagen.github.io/aesthpercog/teaching/bibliography/</guid>
+      <description>Our investigation is firmly lodged between several on-going international debates and draws on the work produced in those contexts. Here you can find a list of key references.
+References   Audi, R. 2013. Moral Perception. Princeton, NJ: Princeton University Press.
+  Baumgarten, A. 1970. Aesthetica. Hildesheim &amp;amp; New York: Georg Olms. First published 1750.
+  Beardsley, M. C. 1981. Aesthetics, Problems in the Philosophy of Criticism. London: Hackett.</description>
+    </item>
+    
+  </channel>
+</rss>
