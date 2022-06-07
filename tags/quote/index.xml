@@ -6,10 +6,15 @@
     <description>Recent content in quote on Aesthetic Perception &amp; Cognition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 12:18:46 +0600</lastBuildDate>
-    
-	<atom:link href="https://aestheticperceptioncognition.se/tags/quote/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 24 Dec 2019 15:53:27 +0600</lastBuildDate><atom:link href="https://aestheticperceptioncognition.se/tags/quote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quote of the Week</title>
+      <link>https://aestheticperceptioncognition.se/quote/</link>
+      <pubDate>Tue, 24 Dec 2019 15:53:27 +0600</pubDate>
+      
+      <guid>https://aestheticperceptioncognition.se/quote/</guid>
+      <description>This is an overview of all the quotes of the week.</description>
+    </item>
     
     <item>
       <title>Mary Mothersill</title>

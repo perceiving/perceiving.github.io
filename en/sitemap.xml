@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://aestheticperceptioncognition.se/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T12:20:58+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
@@ -15,91 +14,60 @@
                 hreflang="en"
                 href="https://aestheticperceptioncognition.se/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/teaching/artlife-bibliography/</loc>
+    <lastmod>2022-06-01T12:20:58+06:00</lastmod>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/events/conference-2022-cfp/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/events/reading-group-2022/</loc>
+    <lastmod>2022-01-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/events/workshop2021jan/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/events/reading-group-autumn/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/mental-images-racialized-bodies/</loc>
     <lastmod>2020-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/beauty-broad-narrow/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/authenticity-games/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/photographic-phenomenology/</loc>
     <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/interactive-installation-art/</loc>
     <lastmod>2020-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/metaphor-conceptual-art/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/borders-of-perception/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/aesthetics-of-action/</loc>
     <lastmod>2020-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/events/summer2020/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/events/reading-group/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/tags/quote/</loc>
+    <lastmod>2019-12-24T15:53:27+06:00</lastmod>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/quote/</loc>
     <lastmod>2019-12-24T15:53:27+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aestheticperceptioncognition.se/quote/mothersill/</loc>
-    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aestheticperceptioncognition.se/tags/quote/</loc>
-    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aestheticperceptioncognition.se/quote/bridges/</loc>
-    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/tags/</loc>
-    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+    <lastmod>2019-12-24T15:53:27+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="se"
@@ -110,43 +78,36 @@
                 hreflang="en"
                 href="https://aestheticperceptioncognition.se/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/quote/mothersill/</loc>
+    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/quote/bridges/</loc>
+    <lastmod>2019-12-24T12:18:46+06:00</lastmod>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/a-cornerstone/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/events/</loc>
     <lastmod>2019-07-08T15:53:27+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://aestheticperceptioncognition.se/tags/home/</loc>
+    <lastmod>2019-07-08T15:53:27+06:00</lastmod>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/ideas/</loc>
     <lastmod>2018-07-08T15:45:06+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/teaching/bibliography/</loc>
     <lastmod>2018-07-08T12:20:58+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/teaching/</loc>
     <lastmod>2018-07-07T15:53:27+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/about/</loc>
     <lastmod>2018-07-07T12:37:52+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/events/reading-group-spring/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://aestheticperceptioncognition.se/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -159,5 +120,4 @@
                 href="https://aestheticperceptioncognition.se/categories/"
                 />
   </url>
-  
 </urlset>

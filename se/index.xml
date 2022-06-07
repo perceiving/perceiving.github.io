@@ -5,10 +5,6 @@
     <link>https://aestheticperceptioncognition.se/se/</link>
     <description>Recent content on Estetisk perception och kognition</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>se-se</language>
-    
-	<atom:link href="https://aestheticperceptioncognition.se/se/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>se-se</language><atom:link href="https://aestheticperceptioncognition.se/se/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

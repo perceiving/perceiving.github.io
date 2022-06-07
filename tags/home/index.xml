@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home on Aesthetic Perception &amp; Cognition</title>
+    <link>https://aestheticperceptioncognition.se/tags/home/</link>
+    <description>Recent content in home on Aesthetic Perception &amp; Cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2019 15:53:27 +0600</lastBuildDate><atom:link href="https://aestheticperceptioncognition.se/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Events</title>
+      <link>https://aestheticperceptioncognition.se/events/</link>
+      <pubDate>Mon, 08 Jul 2019 15:53:27 +0600</pubDate>
+      
+      <guid>https://aestheticperceptioncognition.se/events/</guid>
+      <description>We believe that philosophy requires dialogue and joint reflection. Our activities will include two workshops for researchers and graduate students in aesthetics and related fields. In the third year of the project, we will organise a large international conference open to a wider audience. All events will be advertised, and contributions will be invited via calls for papers.</description>
+    </item>
+    
+    <item>
+      <title>Research &amp; Ideas</title>
+      <link>https://aestheticperceptioncognition.se/ideas/</link>
+      <pubDate>Sun, 08 Jul 2018 15:45:06 +0600</pubDate>
+      
+      <guid>https://aestheticperceptioncognition.se/ideas/</guid>
+      <description>Our primary aim is a better understanding, and more thorough assessment, of the the role of perception and cognition in aesthetic appreciation. This requires a critical review of a cluster of issues centered around the notions of testimony, mental imagery, belief formation, response-dependence, reasons and normativity, and phenomenal concepts.</description>
+    </item>
+    
+    <item>
+      <title>Teaching &amp; Learning</title>
+      <link>https://aestheticperceptioncognition.se/teaching/</link>
+      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      
+      <guid>https://aestheticperceptioncognition.se/teaching/</guid>
+      <description>We aim to disseminate information about the project and its central themes to interested researchers and students, as well as to those looking to incorporate our findings into their own teaching. Please get in touch if you have specific questions, or have a look at the study materials, up-to-date reading lists and other resources we have made available.</description>
+    </item>
+    
+  </channel>
+</rss>
